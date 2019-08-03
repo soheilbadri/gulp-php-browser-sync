@@ -1,4 +1,4 @@
-# How to create a live php server usenig Gulp, php and browser-sync
+# How to create a live php server using Gulp, php and browser-sync
 
 # 1. Installing node.js
 Install node.js on Windows and test it in command prompt using code below.
